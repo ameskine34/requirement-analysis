@@ -32,3 +32,35 @@ Improved Quality – By specifying functional and non-functional requirements, t
 
 Cost & Time Efficiency – Fixing issues during requirement analysis is far cheaper than fixing them after development.
 
+----------------
+# The Requirement Analysis Process :
+
+* Requirement Gathering :
+
+Collecting raw requirements from stakeholders (clients, users, managers, domain experts).
+
+Focused on what is needed rather than how to implement it.
+
+* Requirement Elicitation :
+
+Using techniques such as interviews, surveys, brainstorming, workshops, and observation to draw out detailed requirements.
+
+Helps uncover hidden or unclear needs.
+
+* Requirement Documentation : 
+
+Organizing and recording requirements in a structured format.
+
+Commonly done using a Software Requirement Specification (SRS) document, user stories, or use cases.
+
+* Requirement Analysis and Modeling :
+
+Analyzing requirements to resolve conflicts, prioritize them, and check feasibility.
+
+Modeling requirements using diagrams (UML, data flow diagrams, use case diagrams) for better understanding.
+
+* Requirement Validation :
+
+Ensuring requirements are correct, consistent, complete, and testable.
+
+Involves reviews, walkthroughs, and prototyping to confirm that requirements meet stakeholder expectations.
