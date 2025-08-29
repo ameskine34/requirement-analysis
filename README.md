@@ -33,7 +33,7 @@ Improved Quality – By specifying functional and non-functional requirements, t
 Cost & Time Efficiency – Fixing issues during requirement analysis is far cheaper than fixing them after development.
 
 ----------------
-# The Requirement Analysis Process :
+# Key Activities in Requirement Analysis :
 
 * Requirement Gathering :
 
